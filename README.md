@@ -1,4 +1,4 @@
-## Bechdel Test automation to determine female presence in movies.
+# Bechdel Test automation to determine female presence in movies.
 
 
 ### Goal
