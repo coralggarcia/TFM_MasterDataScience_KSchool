@@ -39,6 +39,7 @@ macOS and Linux:
 ### Technical Information
 
 This project has been carried out using
+
 • Intel® Core ™ i5-6300HQ 2.30 GHz portable CPU and 8 GB of RAM, which has installed:
 
   --> Anaconda Navigator v.1.6.12.
