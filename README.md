@@ -101,8 +101,6 @@ This project has been carried out using
 
 • / results_of_scrapping /: This folder contains a total of 579 .csv files, one per movie, with a table containing information about its cast (names of actors / actresses and characters that they play in the film). These files have been obtained using the R code, contained in the TFM_FINAL folder, 'R_scrapping_characters'.
 
-• coral_garcia_tfm_enviroment.yml: YAML document with the enviroment used during the project, to be replicated on any machine.
-
 • Genre_of_film.ipynb: Python code used to extract the genre from the analyzed movies.
 
 • R_scrapping_characters.R: R code used to extract the cast of each movie.
